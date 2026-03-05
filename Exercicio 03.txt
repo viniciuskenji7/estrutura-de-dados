@@ -1,0 +1,17 @@
+1) O que é um TAD e sua característica fundamental?
+Um Tipo Abstrato de Dados (TAD) é um modelo que define um conjunto de dados e as operações permitidas sobre eles, sem expor como são implementados.
+
+Característica fundamental:
+Encapsulamento da implementação — o usuário sabe o que o tipo faz, mas não como ele funciona internamente.
+
+2) Vantagens de programar com TADs:
+
+Organização e modularização do código
+
+Reutilização de código
+
+Facilidade de manutenção
+
+Maior segurança (controle de acesso aos dados)
+
+Independência entre interface e implementação
